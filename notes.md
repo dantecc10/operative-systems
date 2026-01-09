@@ -31,5 +31,13 @@ El valor de un producto es de n^2.
 
 
 Tiempo después llegó la **EROM** (*Erasable Read-Only Memory*).
-Luego la **EEROM** (*Electrical Erasable Read-Only Memory*)
-.
+Luego la **EEROM** (*Electrical Erasable Read-Only Memory*).
+
+Cuando usamos funciones, rutinas, y cualquier programa, se utiliza la pila.
+No hay programa que no use la pila.
+Es un principio básico; es indispensable para la recursión.
+
+Desde las matemáticas, cualquier programa se puede poner de forma recursiva.
+
+Los árboles, por ejemplo, de estructura de datos, no se pueden trabajar sin recursión.
+
