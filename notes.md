@@ -85,6 +85,6 @@ Dos tareas:
 2. Los comandos del MS-DOS.
 3. Los comandos del Vim.
 
-Además de:
+Además de
 4. Los ejercicios de la plataforma de mecanografía.
 
