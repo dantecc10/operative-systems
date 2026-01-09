@@ -49,3 +49,13 @@ Posteriormente surgió UNIX.
 Un programa es -por ejemplo- Notepad.exe. Se guarda en el disco o la unidad de almacenamiento. Cuando Notepad se lanza, debe escribirse a la RAM.
 
 Cuando un programa que está almacenado en el disco duro se ha cargado en la RAM, se denomina **tarea** o **proceso**.
+
+Cuando un proceso está cargado en memoria, se identifica con un PID.
+En Linux, para usar procesos usamos comandos:
+
+```[bash]
+kill
+task
+man kill
+```
+
