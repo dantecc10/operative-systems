@@ -23,10 +23,13 @@ Esta memoria tenía una sección llamada *boot*, que se encargaba de cargar el s
 
 Otra sección posterior llamada *test* hace una prueba de los componentens.
 
-El *BIOS* está formado por una serie de funciones en ensamblador que se encargan de ejecutar alguna característica. Esto es posible al acceder a la sección de la RAM que contenga una determinada instrucción (**interrupción**)) para completar la tarea.
+El **BIOS** (*Basic Input Output System*) está formado por una serie de funciones en ensamblador que se encargan de ejecutar alguna característica. Esto es posible al acceder a la sección de la RAM que contenga una determinada instrucción (**interrupción**)) para completar la tarea.
 
 Después apareció CPM, que ya utilizaba la unidad "C:\". Este sistema fue traído a la universidad por Harold V. Macintosh; a quien se le fue dado por un investigador del MIT, quien posteriormente se lo habría vendido a Bill Gates (Microsoft) para crear y comercializar **MS-DOS**.
 
 El valor de un producto es de n^2.
 
 
+Tiempo después llegó la **EROM** (*Erasable Read-Only Memory*).
+Luego la **EEROM** (*Electrical Erasable Read-Only Memory*)
+.
