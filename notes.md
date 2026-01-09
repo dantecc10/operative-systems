@@ -42,3 +42,10 @@ Desde las matemáticas, cualquier programa se puede poner de forma recursiva.
 Los árboles, por ejemplo, de estructura de datos, no se pueden trabajar sin recursión.
 
 Una computadora -en ese entonces- valía lo que cuesta un coche de lujo, era extremadamente caro.
+
+Posteriormente surgió UNIX.
+
+¿Qué es una tarea?, ¿es lo mismo un programa, que una tarea, y un proceso?
+Un programa es -por ejemplo- Notepad.exe. Se guarda en el disco o la unidad de almacenamiento. Cuando Notepad se lanza, debe escribirse a la RAM.
+
+Cuando un programa que está almacenado en el disco duro se ha cargado en la RAM, se denomina **tarea** o **proceso**.
