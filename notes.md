@@ -68,5 +68,23 @@ C:\> winget install vim.vim
 ```
 Linux:
 ```[bash]
+# Instalado como
+$ sudo apt install -y vim 
+
 $ vim
 ```
+
+En Windows se puede usar la tubería a `more` para mostrar el contenido de un archivo con type.
+```[cmd]
+C:\> type archivo.txt | more
+```
+
+
+Dos tareas:
+1. Los comandos del bash.
+2. Los comandos del MS-DOS.
+3. Los comandos del Vim.
+
+Además de:
+4. Los ejercicios de la plataforma de mecanografía.
+
