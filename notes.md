@@ -30,7 +30,7 @@ Después apareció CPM, que ya utilizaba la unidad "C:\". Este sistema fue traí
 El valor de un producto es de n^2.
 
 
-Tiempo después llegó la **EROM** (*Erasable Read-Only Memory*).
+Tiempo después llegó la **EROM** (*Erasable Read-Only Memory*). No recomiendo Googlear "EROM", pues los motores de búsqueda arrojan resultados no relacionados.
 Luego la **EEROM** (*Electrical Erasable Read-Only Memory*).
 
 Cuando usamos funciones, rutinas, y cualquier programa, se utiliza la pila.
@@ -41,3 +41,4 @@ Desde las matemáticas, cualquier programa se puede poner de forma recursiva.
 
 Los árboles, por ejemplo, de estructura de datos, no se pueden trabajar sin recursión.
 
+Una computadora -en ese entonces- valía lo que cuesta un coche de lujo, era extremadamente caro.
