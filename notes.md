@@ -59,3 +59,14 @@ task
 man kill
 ```
 
+Estos comandos también funcionan en MacOS, porque aplican para los sistemas basados en UNIX.
+¿Cuál es el editor base de todo esto?
+
+En Windows:
+```[cmd]
+C:\> winget install vim.vim
+```
+Linux:
+```[bash]
+$ vim
+```
