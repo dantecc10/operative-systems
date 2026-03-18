@@ -1,12 +1,16 @@
 # Sistemas Operativos I
+
 ## Mtro. Adolfo Aguilar Rico
 
 ### Enlaces necesarios
-- Plataforma [*Más Escuela*](https://es.masescuela.com/)
+
+- Plataforma [***Más Escuela***](https://es.masescuela.com/)
 - [Mecanografía Online](https://www.mecanografia-online.com/)
 
 ### Sesiones
+
 #### Viernes 09 enero
+
 El maestro habla del centro de cálculo en la 11 Sur y 49 Oriente.
 A las computadoras que había ahí, había que programarlas en binario y después en ensamblador.
 Después llegó una computadora IBM 1150 (de vulvos y de -entonces- vanguardia) que se utilizaba con tarjetas perforadas.
@@ -28,7 +32,6 @@ El **BIOS** (*Basic Input Output System*) está formado por una serie de funcion
 Después apareció CPM, que ya utilizaba la unidad "C:\". Este sistema fue traído a la universidad por Harold V. Macintosh; a quien se le fue dado por un investigador del MIT, quien posteriormente se lo habría vendido a Bill Gates (Microsoft) para crear y comercializar **MS-DOS**.
 
 El valor de un producto es de n^2.
-
 
 Tiempo después llegó la **EROM** (*Erasable Read-Only Memory*). No recomiendo Googlear "EROM", pues los motores de búsqueda arrojan resultados no relacionados.
 Luego la **EEROM** (*Electrical Erasable Read-Only Memory*).
@@ -63,10 +66,13 @@ Estos comandos también funcionan en MacOS, porque aplican para los sistemas bas
 ¿Cuál es el editor base de todo esto?
 
 En Windows:
+
 ```[cmd]
 C:\> winget install vim.vim
 ```
+
 Linux:
+
 ```[bash]
 # Instalado como
 $ sudo apt install -y vim 
@@ -75,12 +81,13 @@ $ vim
 ```
 
 En Windows se puede usar la tubería a `more` para mostrar el contenido de un archivo con type.
+
 ```[cmd]
 C:\> type archivo.txt | more
 ```
 
-
 Dos tareas:
+
 1. Los comandos del bash.
 2. Los comandos del MS-DOS.
 3. Los comandos del Vim.
@@ -88,3 +95,12 @@ Dos tareas:
 Además de
 4. Los ejercicios de la plataforma de mecanografía.
 
+#### Viernes 23 de enero
+Tarea: Investigar los tipos de DNS
+- IP
+- URL
+- CNAME
+
+Software que se puede utilizar
+- DNSSEC
+- Next DNS
