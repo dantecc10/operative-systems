@@ -1,0 +1,8 @@
+https://httpbin.org/get
+https://example.com
+https://httpbin.org/delay/1
+https://httpbin.org/status/404
+https://httpbin.org/status/200
+https://nonexistent.invalid
+https://python.org
+https://github.com
